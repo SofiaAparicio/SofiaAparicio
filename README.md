@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sofia Aparicio
-- 👩‍💻 I'm a AI Research Scientist @ [Outsystems](https://www.outsystems.com/ai/)
 - 👀 I’m interested in Machine Learning and NLP!
 - 🌱 I’m currently learning about vectorial generation.
 - 📫 How to reach me aparicio.a.sofia@gmail.com
